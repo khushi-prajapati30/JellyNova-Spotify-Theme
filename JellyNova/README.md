@@ -18,9 +18,4 @@ A custom, hyper-realistic Spicetify theme designed for an immersive music experi
 
 - https://github.com/khushi-prajapati30
 
-## 🛠️ Installation
-1. Place the `JellyNova` folder in your Spicetify `Themes` directory.
-2. Open your terminal and run:
-   ```powershell
-   spicetify config current_theme JellyNova
-   spicetify apply
+
